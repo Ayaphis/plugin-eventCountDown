@@ -38,5 +38,5 @@ module.exports =
     render:->
       <div>
         <h3> {@state.shownLabel} </h3>
-        <h1 bsStyle = @state.bss> {@state.shownTime} </h1>
+        <h1 bsstyle = {@state.bss}> {@state.shownTime} </h1>
       </div>
