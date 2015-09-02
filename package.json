@@ -1,0 +1,23 @@
+{
+  "name": "EventCountDown",
+  "description": "倒计时",
+  "version": "1.0.0",
+  "main": "index.cjsx",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayaphis/plugin-eventCountDown.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayaphis/plugin-eventCountDown/issues"
+  },
+  "homepage": "https://github.com/Ayaphis/plugin-eventCountDown/#readme"
+}
