@@ -2,9 +2,9 @@
 module.exports =
   name: 'EventCountDown'
   priority: 31
-  displayName: <span> <FontAwesome key={0} name='fa-clock-o' /> {'活动倒计时'} </span>
+  displayName: <span> <FontAwesome key={0} name='clock-o' /> {'活动倒计时'} </span>
   description: "Event Count Down"
-  version: '1.0.1'
+  version: '1.1.1'
   author: 'Ayaphis'
   link: 'https://github.com/Ayaphis'
   reactClass: React.createClass
