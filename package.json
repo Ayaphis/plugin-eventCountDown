@@ -1,11 +1,8 @@
 {
-  "name": "poi-plugin-event countdown",
+  "name": "poi-plugin-event-countdown",
   "description": "Countdown for Event",
   "version": "1.2.0",
   "main": "index.cjsx",
-  "dependencies": {
-    
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
