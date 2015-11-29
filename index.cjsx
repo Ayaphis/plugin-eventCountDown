@@ -8,6 +8,8 @@ getRenew = ->
     renew.setUTCHours(20)
   else
     renew.setUTCHours(44)
+  renew.setMinutes(0)
+  renew.setSeconds(0)
   renew.getTime()
 
 module.exports =
@@ -15,7 +17,7 @@ module.exports =
   priority: 511
   displayName: <span> <FontAwesome key={0} name='clock-o' /> {'活动计时'} </span>
   description: "Event Count Down"
-  version: '1.2.0'
+  version: '1.2.1'
   author: 'Ayaphis'
   link: 'https://github.com/Ayaphis'
   reactClass: React.createClass
