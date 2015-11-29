@@ -1,7 +1,7 @@
 {
-  "name": "EventCountDown",
-  "description": "倒计时",
-  "version": "1.0.0",
+  "name": "poi-plugin-eventCountDown",
+  "description": "Countdown for Event",
+  "version": "1.2.0",
   "main": "index.cjsx",
   "dependencies": {
     
