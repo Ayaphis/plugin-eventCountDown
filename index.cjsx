@@ -22,7 +22,7 @@ module.exports =
   link: 'https://github.com/Ayaphis'
   reactClass: React.createClass
     getInitialState: ->
-      eventFinal : Date.UTC(2015,11,7,2)
+      eventFinal : Date.UTC(2015,11,8,2)
       bossRenew  : getRenew()
     handleBossRefresh: ->
       @setState
